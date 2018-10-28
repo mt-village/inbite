@@ -1,4 +1,3 @@
-## install ffmpeg
 ```
-brew install ffmpeg
+$ pipenv install
 ```
